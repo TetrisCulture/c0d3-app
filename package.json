@@ -85,7 +85,7 @@
     "@storybook/addon-viewport": "^6.3.7",
     "@storybook/react": "^6.3.12",
     "@testing-library/jest-dom": "^5.13.0",
-    "@testing-library/react": "^12.0.0",
+    "@testing-library/react": "^12.1.2",
     "@testing-library/react-hooks": "^7.0.2",
     "@testing-library/user-event": "^12.7.0",
     "@types/bcrypt": "^5.0.0",
@@ -122,6 +122,6 @@
     "sass-loader": "^10.0.1",
     "svgo": "^2.5.0",
     "ts-node": "^10.2.1",
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.4"
   }
 }
